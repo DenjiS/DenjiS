@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning Python, JavaScript and some very rare times Rust
 - 💞️ I’m looking for a dream job
 - 📫 How to reach me:
--> daniil.sychkov.ge@gmail.com
--> sychkov.daniil@yandex.ru
--> https://t.me/Just_Daniel_S
--> https://www.instagram.com/daniil_baks/
+-> ge-mail:daniil.sychkov.ge@gmail.com
+-> ru-mail:sychkov.daniil@yandex.ru
+-> telegram:https://t.me/Just_Daniel_S
+-> instagram:https://www.instagram.com/daniil_baks/
 
 <!---
 DenjiS/DenjiS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
