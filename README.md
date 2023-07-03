@@ -3,13 +3,13 @@
 
 - 👋 Hi, I’m @DenjiS
 - 👀 I’m interested in webdev backend, game industry, manga and travelling
-- 🌱 I’m currently learning Python, JavaScript and some very rare times Rust
+- 🌱 I’m currently learning C# + Unity
 - 💞️ I’m looking for a dream job
 - 📫 How to reach me:
--> ge-mail:daniil.sychkov.ge@gmail.com
 -> ru-mail:sychkov.daniil@yandex.ru
 -> telegram:https://t.me/Just_Daniel_S
 -> instagram:https://www.instagram.com/daniil_baks/
+-> ge-mail:daniil.sychkov.ge@gmail.com
 
 <!---
 DenjiS/DenjiS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
