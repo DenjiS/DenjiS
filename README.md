@@ -1,3 +1,5 @@
+<p align="center"><img src="code-daemon/pet.svg" alt="dmn, my code.daemon pet" width="640"></p>
+
 - Big man with a github repository. Take that off, what are you?
 - Marketer, nomad, otaku, philanthropist.
 
